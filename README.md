@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpurnomo83&layout=compact)
+
 <!--
 **ryanpurnomo83/ryanpurnomo83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
