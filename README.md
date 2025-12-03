@@ -12,7 +12,7 @@ I really passionate in
 <br>## Programming Language
 
 <p>
-  <img src="https://www.php.net/images/logos/php-logo.svg" width="5%" alt="PHP Logo" />
+  <img src="https://www.php.net/images/logos/php-logo.svg" width="5%" alt="PHP Logo" style="background-color:white; padding:5px; border-radius:8px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="2%" alt="Python Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="2%" alt="C++ Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" width="2%" alt="C Logo" />
