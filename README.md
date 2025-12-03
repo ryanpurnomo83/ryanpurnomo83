@@ -9,7 +9,7 @@ I really passionate in
 <br>-Embedded Software Development
 <br>-Computer Networking <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a9bee38-6151-4539-8a16-5d30c00ff1be" />
 
-<br>## Programming Language
+<br>Programming Language
 
 <p>
   <img src="https://www.php.net/images/logos/php-logo.svg" width="5%" alt="PHP Logo" style="background-color:white; padding:5px; border-radius:8px;" />
