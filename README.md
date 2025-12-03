@@ -1,4 +1,4 @@
-### Hi there I'm an College Student from Indonesia 👋
+### Hi there I'm a Fresh Graduate College Student from Indonesia 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpurnomo83&layout=compact)
 
