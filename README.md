@@ -11,9 +11,9 @@ I really passionate in
 
 <br><br>Programming Language : 
 <img src="https://www.php.net//images/logos/php-logo.svg" style="background-color: white; width: 5%;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="background-color: white; width: 5%;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="background-color: white; width: 5%;">
-<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" style="background-color: white; width: 5%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="background-color: white; width: 2%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="background-color: white; width: 2%;">
+<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" style="background-color: white; width: 2%;">
 
 <br>
 
